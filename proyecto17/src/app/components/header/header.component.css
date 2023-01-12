@@ -1,0 +1,15 @@
+li{
+    padding: 5px 15px;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+}
+a{
+    color: lightblue;
+    position: relative;
+}
+p{
+    color: blue;
+    font-size: 30px;
+    position: relative;
+}
